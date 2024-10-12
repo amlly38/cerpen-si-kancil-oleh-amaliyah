@@ -1,0 +1,3 @@
+# Bab 1: Kenalan dengan Si Kancil yang Cerdik
+
+Di sebuah hutan yang lebat dan penuh dengan aneka satwa, hiduplah seekor Kancil yang terkenal sangat cerdik. Kancil ini tidak hanya pintar, tetapi juga suka berpetualang ke berbagai sudut hutan. Ia selalu penasaran dengan apa yang ada di luar wilayahnya dan senang mencari tantangan baru. Teman-teman hewan di hutan sering kali kagum dengan ide-ide cerdas Kancil dalam mengatasi masalah, meski terkadang ada yang merasa kesal karena Kancil sering kali memanfaatkan kecerdikannya untuk mengelabui mereka.
