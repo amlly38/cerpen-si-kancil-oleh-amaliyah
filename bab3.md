@@ -1,4 +1,4 @@
-#Bab 4: Menipu Buaya di Sungai
+# Bab 3: Menipu Buaya di Sungai
 
 Tak lama setelah berhasil mengelabui Harimau, Kancil tiba di tepi sungai yang lebar. Ia ingin menyeberang, tetapi tidak ada jembatan. Di dalam air, terlihat buaya-buaya yang sedang berendam, siap memangsa siapa pun yang masuk ke air.
 
