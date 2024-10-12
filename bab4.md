@@ -1,4 +1,4 @@
-#Bab 4: Penemuan Kebun Timun
+# Bab 4: Penemuan Kebun Timun
 
 Di seberang sungai, Kancil melanjutkan petualangannya dan tiba di sebuah kebun yang subur. Kebun itu dipenuhi dengan timun-timun segar yang menggoda. “Wow, ini pasti kebun milik petani!” serunya dengan wajah berseri-seri. “Timun ini pasti sangat lezat!”
 
